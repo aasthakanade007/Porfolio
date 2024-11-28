@@ -1,0 +1,33 @@
+*{
+    color: red;
+    background-color: rgb(156, 237, 239);
+}
+
+h2{
+    color: blueviolet;
+}
+
+#id1{
+    color: turquoise;
+}
+
+.class1{
+    background-color: blueviolet;
+    color: azure;
+}
+
+nav, .class1, #id1{
+    background-color: chartreuse;
+}
+
+#id2{
+    margin-left: 100px;
+    padding-right: 100px;
+}
+
+footer{
+    text-align: center;
+    position: sticky;
+    bottom: 0;
+    right: 0;
+}
